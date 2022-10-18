@@ -1,7 +1,7 @@
 /*
  * File: memory_helpers.c
- * Auth:Ikejiofor Chibuike
- * 	Isidore Akpanetuk 
+ * Auth: Ikejiofor Chibuike
+ * 	 Isidore Akpaetuk 
  */
 
 #include "main.h"

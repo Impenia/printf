@@ -1,6 +1,6 @@
 /*
  * File: modifiers.c
- * Auth:Ikejiofor Chibuike and Isidore Akpanetuk
+ * Auth:Ikejiofor Chibuike and Isidore Akpaetuk
  */
 
 #include "main.h"

@@ -1,7 +1,7 @@
 /*
  * File: _printf.c
  * Auth: Ikejiofor Chibuike
- *      Isidore Akpanetuk
+ *       Isidore Akpaetuk
  */
 
 #include "main.h"

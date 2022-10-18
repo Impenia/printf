@@ -1,7 +1,7 @@
 /*
  * File: convert_numbers.c
  * Auth:Ikejiofor Chibuike
- * 	Isidore Akpanetuk
+ * 	Isidore Akpaetuk
  */
 
 #include "main.h"

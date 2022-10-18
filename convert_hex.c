@@ -1,6 +1,6 @@
 /*
  * File: convert_hex.c
- * Auth: Isidore Akpanetuk
+ * Auth: Isidore Akpaetuk
  *      Chibuike Ikejiofor
  */
 

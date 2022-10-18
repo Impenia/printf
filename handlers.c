@@ -1,7 +1,7 @@
 /*
  * File: handlers.c
- * Auth:Ikejiofor Chibuike
- *       Isidore Akpanetuk
+ * Auth: Ikejiofor Chibuike
+ *       Isidore Akpaetuk
  */
 
 #include "main.h"
